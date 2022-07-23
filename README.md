@@ -9,4 +9,4 @@
 4. Find Files in folder: output
 
 
-<img width="393" alt="Screenshot 2022-07-20 235640" src="https://user-images.githubusercontent.com/90196523/180089574-8d9bcb4a-c078-4a87-93e7-22d4505ac261.png">
+<img width="393" alt="Screenshot 2022-07-20 235640" src="https://user-images.githubusercontent.com/90196523/180089574-8d9bcb4a-c078-4a87-93e7-22d4505ac261.png"> ![Screenshot_txt](https://user-images.githubusercontent.com/90196523/180603888-5a4a84d6-12e6-4ece-8d09-ee5e8ef29663.PNG)
