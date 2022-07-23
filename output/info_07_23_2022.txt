@@ -1,0 +1,19 @@
+loaded main dataframe. Shape: (113, 7)
+loaded merge dataframe . Shape: (113, 3)
+_________________________
+dataframes merged. Shape: (113, 10)
+_________________________
+NO_REV                    44
+TWO_REV_MATCH_included    29
+TWO_REV_MATCH_excluded    19
+ONE_REV                   17
+TWO_REV_DIFF               4
+Name: MATCH_INFO, dtype: int64
+_________________________
+Meanings
+NO_REV: not reviewed
+ONE_REV: reviewed by one reviewer
+TWO_REV_MATCH_included: included Reviewers match
+TWO_REV_MATCH_excluded: excluded Reviewers match
+TWO_REV_DIFF: Rating differs
+_________________________
